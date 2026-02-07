@@ -17,4 +17,10 @@ Python, pandas, NumPy, scikit-learn, Matplotlib, Seaborn
 1. Install dependencies:
    pip install -r requirements.txt
 2. Open the notebook and run all cells.
+3. 
+## 📊 Model Results
+
+Below is the confusion matrix and accuracy output from the final model:
+![Model Results](results.png)
+
 
